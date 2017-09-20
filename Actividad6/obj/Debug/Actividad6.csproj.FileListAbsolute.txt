@@ -1,0 +1,11 @@
+c:\users\maple\documents\visual studio 2015\Projects\Actividad6\Actividad6\bin\Debug\Actividad6.exe.config
+c:\users\maple\documents\visual studio 2015\Projects\Actividad6\Actividad6\bin\Debug\Actividad6.exe
+c:\users\maple\documents\visual studio 2015\Projects\Actividad6\Actividad6\bin\Debug\Actividad6.pdb
+c:\users\maple\documents\visual studio 2015\Projects\Actividad6\Actividad6\bin\Debug\FileOutputs.dll
+c:\users\maple\documents\visual studio 2015\Projects\Actividad6\Actividad6\bin\Debug\FileOutputs.pdb
+c:\users\maple\documents\visual studio 2015\Projects\Actividad6\Actividad6\obj\Debug\Actividad6.exe
+c:\users\maple\documents\visual studio 2015\Projects\Actividad6\Actividad6\obj\Debug\Actividad6.pdb
+C:\Users\maple\documents\visual studio 2015\Projects\Actividad6\Actividad6\obj\Debug\Actividad6.csprojResolveAssemblyReference.cache
+C:\Users\maple\Documents\Visual Studio 2015\Projects\PIDS_Actividad6\Actividad6\Actividad6\bin\Debug\Actividad6.exe.config
+C:\Users\maple\Documents\Visual Studio 2015\Projects\PIDS_Actividad6\Actividad6\Actividad6\obj\Debug\Actividad6.exe
+C:\Users\maple\Documents\Visual Studio 2015\Projects\PIDS_Actividad6\Actividad6\Actividad6\obj\Debug\Actividad6.pdb
